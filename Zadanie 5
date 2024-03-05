@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <table>
+        <tr>
+            <th>Produkt</th>
+            <th>Opis</th>
+            <th>Cena</th>
+            <th>Zdjecie</th>
+        </tr>
+
+        <tr>
+            <td><a href="Telewizor">Telewizor</a></td>
+            <td>Duzy telewizor LED o rozmiarze 55 cali.</td>
+            <td>2500 zł</td>
+            <td><a href="https://www.mediaexpert.pl/telewizory-i-rtv/telewizory/telewizor-panasonic-tx-55lx650e-55-led-4k-android-tv-dolby-vision-dolby-atmos-hdmi-2-1-dvb-t2-hevc-h-265?msclkid=a671674facf81e42151f02a8fc8c396b&utm_source=bing&utm_medium=cpc&utm_campaign=MS%20PM%20%3E%20RTV%20%3E%20Telewizory%20*ROAS&utm_term=2335156539330863&utm_content=Telewizory%20(Wysoki)"><img src="https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/38/3850942/Telewizor-PANASONIC-TX-55LX650E-skos.jpg" href="Telewizor" width="50" height="60"></a></td>
+        </tr>
+
+        <tr>
+            <td><a href="Laptop">Laptop</a></td>
+            <td>Laptop z procesorem Intel Core i7 i dyskiem SSD</td>
+            <td>3500 zł</td>
+            <td><a href="https://www.mediaexpert.pl/komputery-i-tablety/laptopy-i-ultrabooki/laptopy/laptop-lenovo-ideapad-slim-5-16abr8-16-ips-r7-7730u-16gb-ram-512gb-ssd-windows-11-home?msclkid=b4a82faeb311169805af4a49e3c594cd&utm_source=bing&utm_medium=cpc&utm_campaign=MS%20Shopping%20%3E%20IT%20%3E%20Laptopy%20*ROAS&utm_term=4586750204094979&utm_content=Laptopy%20i%20ultrabooki"><img src="https://prod-api.mediaexpert.pl/api/images/gallery/thumbnails/images/57/5742752/Laptop-LENOVO-IdeaPad-Slim-5-16ABR8-82XG0073PB-2.jpg" href="Laptop" width="50" height="60"></a></td>
+        </tr>
+
+        <tr>
+            <td><a href="Kamera">Kamera</a></td>
+            <td>Kamera z opcją nagrywania w jakosci 4k.</td>
+            <td>1800 zł</td>
+            <td><a href="https://www.mediaexpert.pl/foto-i-kamery/aparaty-fotograficzne/aparaty-z-wymienna-optyka-bezlustrowce/aparat-canon-r8-body-eu26?msclkid=d3cb56d7539a1c75533d333002962dec&utm_source=bing&utm_medium=cpc&utm_campaign=MS%20Shopping%20%3E%20All%20*ROAS&utm_term=4587643556294187&utm_content=Ad%20group%20%231"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/52/5220586/Aparat-CANON-R8-Body-EU26-Czarny-skos.jpg" href="Kamera" width="50" height="60"></a></td>
+        </tr>
+
+        <tr>
+            <td><a href="Smartfon">Smartfon</a></td>
+            <td>Smartfon z duzym wyswietlaczem i podwojnym aparatem</td>
+            <td>2000 zl</td>
+            <td><a href="https://www.mediaexpert.pl/smartfony-i-zegarki/smartfony/smartfon-motorola-moto-g13-4-128gb-lavender-blue?msclkid=b0d09ba6827011ce19b5fe41d334c39d&utm_source=bing&utm_medium=cpc&utm_campaign=MS%20Shopping%20%3E%20TEL%20%3E%20Smartfony%20*ROAS&utm_term=4587437398606104&utm_content=Smartfony"><img src="https://prod-api.mediaexpert.pl/api/images/gallery_500_500/thumbnails/images/50/5089208/Smartfon-MOTOROLA-Moto-G13-4-128GB-6.5-90Hz-Lawendowy-tyl-front.jpg" href="Smartfon" width="50" height="60"></a></td>
+        </tr>
+        </table>
+    </body>
+</html>
