@@ -1,0 +1,15 @@
+<html><head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <style></style></head><body><u></u>
+
+    <div>
+        <h1>Special characters</h1>
+        <h2>Quadratic equation</h2>
+        <p>&#8722; &frac12x &sup2; &#43; 4x &#43; 10</p>
+        <p>&#8667; &#916; &#61; 16 &#43; 20 </p>
+        <p>&#8667; &#8730; &#916; &#61; √26 </p>
+        <p>x&#8321; &#61; 4 &#43; √26       x&#8322; &#61; 4 &#8722; √26 </p>
+        <p></p>
+        <p>Autor:Kornel Futoma,2024</p>
+    </div> 
+    </body></html>
