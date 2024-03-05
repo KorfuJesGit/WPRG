@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <style> td, th { border: 4px double; rgb(240, 239, 239); } </style>
+     <table>
+       <thead>
+          <tr> <td colspan="3">Komorka 1</td> <td> Komorka 2 <td> Komorka 3
+       <tbody>
+        <tr>  
+            <td rowspan="2">komorka 4</td> <td> komorka 5 <td> Komorka 6 <td> Komorka 7 <td> Komorka 8
+        </tr>  
+        <tr>  
+            <td> Komorka 9 <td> Komorka 10 <td rowspan="2"> Komorka 11 <td> Komorka 12
+        </tr>
+        <tr>  
+            <td> Komorka 13 <td rowspan="3">komorka 14</td> <td> Komorka 15 <td> Komorka 16 
+        </tr>        
+        <tr>  
+            <td> Komorka 17 <td colspan="2"> Komorka 18 <td> Komorka 19 
+        </tr>
+        <tr>  
+            <td> KOmorka 20 <td> Komorka 21 <td colspan="2"> Komorka 22 
+        </tr>
+    </table>
+</body>
+</html>
