@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+
+    <style>
+        
+        .container {
+            position: relative;
+            height: 200px;
+        }
+        .box {
+            height: 50%;
+            width: 100%;
+            display: inherit;
+        }
+
+        .white-block {
+            background-color: white;
+            z-index: 1;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+
+        .red-block {
+            
+            z-index: 2;
+            position: absolute;
+            bottom: 0px;
+            left: 0px;
+            background-color: red;
+        }
+
+        .orange-text {
+            color: orange;
+            position: relative;
+            text-align: center;
+            line-height: 200px;
+            z-index: 3;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <div class="box white-block"></div>
+
+        <div class="box red-block"></div>
+
+        <p class="orange-text">hello world!</p>
+
+      </div>
+      
+</body>
+
+
+</html>
