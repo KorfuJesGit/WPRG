@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+
+    <style>
+
+        .flex-container{
+            display: flex;
+            padding: 10px;
+            height: 200px;
+            border: 2px solid black;
+        }
+
+        .column{
+            text-align: center;
+            width: 100%;
+            margin: 10px;
+            
+            background-color: lightblue;
+        }
+
+        .box{
+            background-color: lightblue;
+            text-align: center;
+            margin: 10px;
+            margin-top: 170px;
+            margin-bottom: 170px;
+            
+            
+            
+            height: max-content;
+            width: max-content;
+            padding: 10px;
+                       
+        }
+
+        .flex-container2{
+            margin-top: 10px;
+            width: 100%;
+            height: auto;
+            border: 2px solid black;
+            display: flex;
+            justify-content: center;
+            
+            
+        }
+
+    </style>
+</head>
+<body>
+    <flex class="flex-container">
+
+        <element class="column">
+            Kolumna 1
+        </element>
+
+        <element class="column">
+            Kolumna 2
+        </element>
+
+        <element class="column">
+            Kolumna 3
+        </element>
+
+    </flex>
+
+    <flex class="flex-container2">
+        <element class="box">Element 1</element>
+        <element class="box">Element 2</element>
+        <element class="box">Element 3</element>
+    </flex>
+
+</body>
+
+</html>
